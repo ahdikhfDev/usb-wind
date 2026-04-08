@@ -1,0 +1,11 @@
+USB Backup Agent Marker
+========================
+DO NOT DELETE THIS FILE!
+
+This file is used by the backup agent to identify this USB drive
+as a valid backup target.
+
+If you delete this file, the backup agent will not be able to
+detect this USB drive for backup operations.
+
+For more information, see README.txt

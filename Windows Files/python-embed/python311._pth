@@ -1,0 +1,7 @@
+python311.zip
+.
+import site
+
+# Pythonpath additions
+Lib
+Lib/site-packages
